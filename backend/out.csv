@@ -1,0 +1,9 @@
+Title,Name,Email Address,Task,Date
+"""File Name"": Generate a random file name without spaces.",,,,
+"""Text"": Text should be limited to 250 characters and the word ""bot"" should be substituted with the word ""process"".",,,,
+"""File Content"":",,,,
+This file should contain 1000 lines of black text, as long as the user requested lines of text. In between the lines a background (white text) should occur with a ratio of 1 to 1000.,,,
+,,,,
+The bot should sample the data below and estimate problems 100 generates,,,,
+,,,,
+"""Text File"": Create a text file of 1000 characters and save it as textfile-123.txt (extension should not be "".txt"" but should be left blank). Any uninformative data should be in blue or green.",,,,
